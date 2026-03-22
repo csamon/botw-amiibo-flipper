@@ -1,0 +1,2 @@
+/ext/nfc/Legend_of_Zelda/BOTW_from_SSB/Toon_Link.nfc
+/ext/nfc/Super_Smash_Bros/Toon_Link.nfc

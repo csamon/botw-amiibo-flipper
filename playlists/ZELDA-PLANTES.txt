@@ -1,0 +1,4 @@
+/ext/nfc/Legend_of_Zelda/30th_Anniversary/Wind_Waker_Zelda.nfc
+/ext/nfc/Legend_of_Zelda/BOTW/Zelda.nfc
+/ext/nfc/Legend_of_Zelda/Skyward_Sword_HD/Zelda_and_Loftwing.nfc
+/ext/nfc/Legend_of_Zelda/TOTK/Princess_Zelda.nfc
