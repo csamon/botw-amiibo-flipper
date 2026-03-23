@@ -1,4 +1,0 @@
-/ext/nfc/FlipperAmiibo-main/Legend_of_Zelda/Twilight_Princess/Wolf_Link.nfc
-/ext/nfc/FlipperAmiibo-main/Legend_of_Zelda/Link_s_Awakening/Link.nfc
-/ext/nfc/FlipperAmiibo-main/Legend_of_Zelda/TOTK/Link.nfc
-/ext/nfc/FlipperAmiibo-main/Legend_of_Zelda/TOTK/Gerudo_King.nfc

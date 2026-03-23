@@ -1,2 +1,0 @@
-/ext/nfc/FlipperAmiibo-main/Legend_of_Zelda/BOTW_from_SSB/Toon_Link.nfc
-/ext/nfc/FlipperAmiibo-main/Super_Smash_Bros/Toon_Link.nfc
